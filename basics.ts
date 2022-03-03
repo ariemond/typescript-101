@@ -238,3 +238,10 @@ meow = {
 // class Instructor implements Cat {
 //     // Only if you add all the properties and methods from Cat will you get rid of the error lines.
 // }
+
+
+
+// ------ Configuring TS Compiler ------
+
+// npx tsc --init
+// Will add a tsconfig.json file
